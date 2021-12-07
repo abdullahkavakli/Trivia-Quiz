@@ -13,7 +13,7 @@ To run, change your server name with "Server=YOURSERVERNAME;" in dbconnection.py
 
 
 <p align="center">
-![](https://github.com/abdullahkavakli/Trivia-Quiz/blob/main/img/db-connection.JPG)
+  <img src="https://github.com/abdullahkavakli/Trivia-Quiz/blob/main/img/db-connection.JPG" alt="animated" />
 </p>
 
 
