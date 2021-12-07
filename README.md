@@ -11,7 +11,11 @@ For DB connection i used MsSQL. You can find backup file.(If you don't know how 
 
 To run, change your server name with "Server=YOURSERVERNAME;" in dbconnection.py. You can find your server name from MsSQL:
 
+
+<p align="center">
 ![](https://github.com/abdullahkavakli/Trivia-Quiz/blob/main/img/db-connection.JPG)
+</p>
+
 
 Tr:
 Bil Bakalım|Python,MsSQL
