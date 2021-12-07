@@ -7,10 +7,11 @@ It gets questions from database and saves scores to database.
 
 For DB connection i used MsSQL. You can find backup file.(If you don't know how to restore a database from .bak file you can find from this tutorial: https://www.youtube.com/watch?v=mr8Lpkx5yag)
 
-![](https://github.com/abdullahkavakli/Trivia-Quiz/blob/main/img/trivia-gif.gif)
+<p align="center">
+  <img src="https://github.com/abdullahkavakli/Trivia-Quiz/blob/main/img/trivia-gif.gif" alt="animated" />
+</p>
 
 To run, change your server name with "Server=YOURSERVERNAME;" in dbconnection.py. You can find your server name from MsSQL:
-
 
 <p align="center">
   <img src="https://github.com/abdullahkavakli/Trivia-Quiz/blob/main/img/db-connection.JPG" alt="animated" />
