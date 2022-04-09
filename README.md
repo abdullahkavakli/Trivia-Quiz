@@ -1,7 +1,7 @@
 # Trivia-Quiz
 PyQt5 Question Game(Tr: Bil Bakalım)
 
-Trivia-Quizis a question game used PyQt5 module.
+Trivia-Quiz is a question game used PyQt5 module.
 
 It gets questions from database and saves scores to database.
 
