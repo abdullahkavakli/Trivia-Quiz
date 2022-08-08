@@ -224,7 +224,7 @@ class Ui_Form(object):
         self.scores.setText(_translate("Form", "Scores"))
         self.lineEdit.setText(_translate("Form", ""))
         self.name_label.setText(_translate("Form", "Your Name:"))
-        self.soru.setText(_translate("Form", "3.sayfa olması lazımfg a dfaafsad fs df sdf sd fsd sd sd fsdfsfsd"))
+        self.soru.setText(_translate("Form", "3.sayfa"))
         self.qa.setText(_translate("Form", "A"))
         self.qb.setText(_translate("Form", "B"))
         self.qc.setText(_translate("Form", "C"))
